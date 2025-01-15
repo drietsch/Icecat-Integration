@@ -1,5 +1,5 @@
 {
-    "name": "icecat/icecat-integration",
+    "name": "drietsch/icecat-integration",
     "description": "This plugin provides integration of pimcore with Icecat",
     "type": "pimcore-bundle",
     "license": "MIT",
